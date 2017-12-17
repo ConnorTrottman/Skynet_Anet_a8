@@ -80464,7 +80464,7 @@
       "sentence": "A library to store generic configurations.",
       "paragraph": "Easily define your configuration hierarchy, the type of each property and weather or not it should be persisted.",
       "website": "https://github.com/neman-io/Bleeper.git",
-      "category": "Uncategorized",
+      "category": "Other",
       "architectures": [
         "esp8266"
       ],
@@ -80475,6 +80475,26 @@
       "archiveFileName": "Bleeper-1.0.0.zip",
       "size": 1974091,
       "checksum": "SHA-256:7a947dc7daef0c30533acb4bda6607f21c9c62cf1dd6f31ae0c48142dbea60cf"
+    },
+    {
+      "name": "Bleeper",
+      "version": "1.0.1",
+      "author": "Diego Ernst \u003cdernst92@gmail.com\u003e",
+      "maintainer": "Diego Ernst \u003cdernst92@gmail.com\u003e",
+      "sentence": "A library to store generic configurations.",
+      "paragraph": "Easily define your configuration hierarchy, the type of each property and weather or not it should be persisted.",
+      "website": "https://github.com/neman-io/Bleeper.git",
+      "category": "Other",
+      "architectures": [
+        "esp8266"
+      ],
+      "types": [
+        "Contributed"
+      ],
+      "url": "http://downloads.arduino.cc/libraries/github.com/neman-io/Bleeper-1.0.1.zip",
+      "archiveFileName": "Bleeper-1.0.1.zip",
+      "size": 1974095,
+      "checksum": "SHA-256:b2ac2af1f26f0700d1f3e0ef99959ea4a06ae4734d0a268cc700e6b51476db95"
     },
     {
       "name": "StateMachine",
